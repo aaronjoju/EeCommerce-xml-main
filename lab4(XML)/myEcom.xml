@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="myEcom.xsd">
+<products >
     <product>
         <product_id>101</product_id>
         <product_name>macbook air</product_name>
